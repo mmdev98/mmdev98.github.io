@@ -37,4 +37,4 @@ Open to Work · Remote-friendly
 mmdev98@github:~$ _
 ```
 
-Check out my portfolio, resume and blog → **[mmdev98.github.io](https://mmdev98.github.io/)**
+Check out my portfolio and resume → **[mmdev98.github.io](https://mmdev98.github.io/)**
